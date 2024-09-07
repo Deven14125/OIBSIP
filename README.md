@@ -8,5 +8,5 @@ This repository contains the Python internship project completed during my inter
 
 For any queries, feel free to reach out at:
 - Email: [deven81239756@gmail.com](mailto:your.email@example.com)
-- LinkedIn: [https://www.linkedin.com/in/deven-machchhar](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [https://www.linkedin.com/in/deven-machchhar](https://www.linkedin.com/in/deven-machchhar)
 
